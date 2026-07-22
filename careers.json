@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Medical Sales Specialist",
+    "division": "Cardiology & Vascular",
+    "location": "Cairo, Egypt",
+    "type": "Full Time",
+    "description": "Responsible for managing relationships with cardiologists and vascular surgeons, delivering product demonstrations for Medtronic & Merit product lines.",
+    "requirements": "B.Sc. in Pharmacy or Biomedical Engineering. 2+ years experience in medical devices sales."
+  },
+  {
+    "id": 2,
+    "title": "Product Manager - Infection Control",
+    "division": "Infection Control",
+    "location": "Cairo, Egypt",
+    "type": "Full Time",
+    "description": "Overseeing marketing strategies, tender documentation, and key customer relations for surface disinfectants and surgical barrier products.",
+    "requirements": "Degree in Pharmacy/Medicine or MBA. Proven experience managing hospital infection control products."
+  }
+]
